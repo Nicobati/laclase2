@@ -1,5 +1,3 @@
-int main()
-{
-printf("hello world!");
-chiste;
-}
+a fulano no 
+ha7u quie ñlamarlo 
+porque trompe todo
